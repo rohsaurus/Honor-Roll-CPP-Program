@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mpari\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mpari\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Honor Roll OOP.-1845916060.00" t="ExcludeRecursive" />
+    <e p="C:\Users\mpari\Documents\coding projects\C++\Honor Roll\OOP\Honor Roll OOP" t="IncludeRecursive">
+      <e p="Honor Roll OOP.sln" t="IncludeFlat" />
+      <e p="Honor Roll OOP.vcxproj" t="IncludeRecursive" />
+      <e p="HonorRoll1.cpp" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="student.cpp" t="Include" />
+      <e p="student.h" t="Include" />
+      <e p="x64\Debug" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

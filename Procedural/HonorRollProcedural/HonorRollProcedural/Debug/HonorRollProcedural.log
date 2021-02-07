@@ -1,0 +1,6 @@
+﻿  HonorRollProcedural.cpp
+C:\Users\mpari\Documents\coding projects\C++\Honor Roll\Procedural\HonorRollProcedural\HonorRollProcedural\HonorRollProcedural.cpp(60,23): warning C4018: '<': signed/unsigned mismatch
+  methods.cpp
+C:\Users\mpari\Documents\coding projects\C++\Honor Roll\Procedural\HonorRollProcedural\HonorRollProcedural\methods.cpp(20,13): error C3861: 'getline': identifier not found
+C:\Users\mpari\Documents\coding projects\C++\Honor Roll\Procedural\HonorRollProcedural\HonorRollProcedural\methods.cpp(31,32): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
