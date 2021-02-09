@@ -7,7 +7,7 @@
 using namespace std;
 
 // Method that will take user input and store each into an array
-void honor_roll_eligibility_checker(int number)
+void honor_roll_eligibility_checker(int number,string name)
 {
     int MAX_GRADE = 120;
     // Variables and while loops to store classes in an array
@@ -132,6 +132,39 @@ void honor_roll_eligibility_checker(int number)
         honor_roll_eligbility = false;
     }
     
-    // All that is left is to output grades, average, classes, and elgibility properly
-    
+
+    cout << name << endl;
+    printf("%-20s%-5s\n", "Class", "Grade");
+    for (int i = 0; i < number; i++) {
+        string first = classes[i];
+        int second = grades[i];
+        string second_as_string;
+        second_as_string = second;
+        printf("%-20s%-5d \n", first.c_str(), second);
+    }
+    cout << endl;
+    cout << endl << "Average: " << mean << endl;
+
+    // If statement to convert bool to string
+    string yes_or_no = " ";
+    if (honor_roll_eligbility == true)
+    {
+        yes_or_no = "yes";
+    }
+    else
+    {
+        yes_or_no = "no";
+    }
+    cout << "Disciplinary Infraction: " << yes_or_no << endl;
+
+    // Printing if elgiable for honor roll or not\
+
+    if (honor_roll_eligbility == true)
+    {
+        cout << "Congratulations "<< name << "! You have made the honor roll.\n";
+    }
+    else
+    {
+        cout << "I'm sorry " << name << " but you didn't qualify for honor roll\n";
+    }
 }

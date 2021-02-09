@@ -1,7 +1,7 @@
 /**
  * Rohan Parikh
  * Honor Roll Procedural
- * 5 February 2021 -
+ * 5 February 2021 - 8 Febuary 2021
  * Extra Thing: Allows user to correct input if they have only one character for name
 */
 #include <string>
@@ -78,7 +78,7 @@ int main(int argc, char* argv[])
             cout << "Number inputted is not an integer\n";
     }
     // Method that checks to see if student is eligbile for honor roll
-    honor_roll_eligibility_checker(temp);
+    honor_roll_eligibility_checker(temp,full_name);
 
     return 0;
 }
