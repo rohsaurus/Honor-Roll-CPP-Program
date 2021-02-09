@@ -125,7 +125,7 @@ void honor_roll_eligibility_checker(int number,string name)
     {
         discipline_issue = "no";
     }
-
+    cout << discipline_issue << endl;
     // Checking for honor roll eligbiity
     bool honor_roll_eligbility = false;
     if (mean >= 90 && number >= 5 && discipline_issue == "no")
@@ -137,7 +137,7 @@ void honor_roll_eligibility_checker(int number,string name)
         honor_roll_eligbility = false;
     }
     
-
+    cout << endl << endl;
     cout << name << endl;
     printf("%-20s%-5s\n", "Class", "Grade");
     for (int i = 0; i < number; i++) {
@@ -150,17 +150,7 @@ void honor_roll_eligibility_checker(int number,string name)
     cout << endl;
     cout << endl << "Average: " << mean << endl;
 
-    // If statement to convert bool to string
-    string yes_or_no = " ";
-    if (honor_roll_eligbility == true)
-    {
-        yes_or_no = "no";
-    }
-    else
-    {
-        yes_or_no = "yes";
-    }
-    cout << "Disciplinary Infraction: " << yes_or_no << endl;
+    cout << "Disciplinary Infraction: " << discipline_issue << endl;
 
     // Printing if elgiable for honor roll or not\
 

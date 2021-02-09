@@ -5,22 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3daf8708-7d86-4f92-9720-c06d5d22dc25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/HonorRollProcedural.lastbuildstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/link.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/link.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/link.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRollProcedural.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/methods.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/vc142.idb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/vc142.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.ilk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/HonorRollProcedural.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/HonorRollProcedural.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HonorRollProcedural/methods.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/methods.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRollProcedural.obj" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRollProcedural.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/methods.obj" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/methods.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/vc142.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/vc142.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.exe" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +28,8 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/HonorRollProcedural/HonorRollProcedural.cpp" />
       <option value="$PROJECT_DIR$/HonorRollProcedural/methods.h" />
+      <option value="$PROJECT_DIR$/HonorRollProcedural/HonorRollProcedural.cpp" />
       <option value="$PROJECT_DIR$/HonorRollProcedural/methods.cpp" />
     </changedPaths>
   </component>
@@ -128,7 +124,7 @@
       <workItem from="1612728801603" duration="119000" />
       <workItem from="1612729215533" duration="6811000" />
       <workItem from="1612825434982" duration="4187000" />
-      <workItem from="1612877411024" duration="1045000" />
+      <workItem from="1612877411024" duration="3778000" />
     </task>
     <servers />
   </component>

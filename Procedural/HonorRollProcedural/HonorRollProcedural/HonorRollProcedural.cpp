@@ -17,11 +17,18 @@ int main(int argc, char* argv[])
 
     cout << "Enter your full name\n";
     getline(cin, full_name);
+    // if chracter length is 0,then it will ask user to enter their name
+    int name_length = full_name.length();
+    if (name_length == 0)
+    {
+        cout << "You entered nothing. Please enter your name\n";
+        getline (cin, full_name);
+    }
 
     // If character length is 1, will ask user for confirmation
 
     // Variable for full name length
-    int name_length = full_name.length();
+
     string choice;
   
   
