@@ -53,9 +53,10 @@ void honor_roll_eligibility_checker(int number,string name)
         do
         {
             // test condition to check for int status works for strings and doubles
-            cout << "Enter your grade for class " << classes[o] << ". It must be greater than 0 and no more than " << MAX_GRADE << ":\n";
+            cout << "Enter your grade for class " << classes[o] << ". It must be greater than 0 and no more than " << MAX_GRADE << ". Also it must not be a negative number and must be an integer.\n If you are seeing this again, then you have failed one of these conditions.\n\n";
             string tempary = "";
             cin >> tempary;
+            int triggered = 0;
 
             // Iteratres to every character checking if it is a digit or not
             // this deduces whether user inputted integer or something else
@@ -64,7 +65,7 @@ void honor_roll_eligibility_checker(int number,string name)
                 if (isdigit(tempary[p]) == false) 
                 {
                     count=1;
-                 
+                    triggered = 1;
                 }
                 else
                     count=0;
@@ -81,11 +82,15 @@ void honor_roll_eligibility_checker(int number,string name)
   
             else
                 cout << " ";
-
+            if (triggered == 1)
+            {
+                cout << "You can not enter a string or a double.\n";
+                count = 1;
+            }
             // Checking if number is negative or above max grade
             if (grades[o] < 0)
             {
-                cout << "You can't have a negative grade\n";
+                cout << "You can't have a negative grade.\n Please enter a positive integer";
                 count = 1;
             }
             if (grades[o] > MAX_GRADE)
@@ -149,11 +154,11 @@ void honor_roll_eligibility_checker(int number,string name)
     string yes_or_no = " ";
     if (honor_roll_eligbility == true)
     {
-        yes_or_no = "yes";
+        yes_or_no = "no";
     }
     else
     {
-        yes_or_no = "no";
+        yes_or_no = "yes";
     }
     cout << "Disciplinary Infraction: " << yes_or_no << endl;
 
