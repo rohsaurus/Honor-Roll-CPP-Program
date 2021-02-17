@@ -5,18 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3daf8708-7d86-4f92-9720-c06d5d22dc25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/.idea/.idea.Honor Roll OOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/.idea/.idea.Honor Roll OOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/.idea/.idea.Honor Roll OOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.exe.recipe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/Honor Roll OOP.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/HonorRoll1.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/student.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/vc142.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/vc142.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HonorRollProcedural/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HonorRollProcedural/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/HonorRoll1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/HonorRoll1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/student.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/student.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/student.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/student.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/unsuccessfulbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.vcxproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.vcxproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/HonorRollProcedural.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/HonorRollProcedural.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/methods.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/methods.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRollProcedural.obj" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRollProcedural.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/methods.obj" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/methods.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/vc142.idb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/vc142.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.exe" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +58,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34991708" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -55,7 +72,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -124,7 +141,8 @@
       <workItem from="1612728801603" duration="119000" />
       <workItem from="1612729215533" duration="6811000" />
       <workItem from="1612825434982" duration="4187000" />
-      <workItem from="1612877411024" duration="3778000" />
+      <workItem from="1612877411024" duration="4030000" />
+      <workItem from="1613574642497" duration="1429000" />
     </task>
     <servers />
   </component>

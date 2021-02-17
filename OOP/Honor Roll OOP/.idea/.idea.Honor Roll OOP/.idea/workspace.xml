@@ -4,7 +4,35 @@
     <projectFile>Honor Roll OOP.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c515c091-2719-4c64-8457-d58b2c05321b" name="Default Changelist" comment="" />
+    <list default="true" id="c515c091-2719-4c64-8457-d58b2c05321b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.exe.recipe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/Honor Roll OOP.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/HonorRoll1.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/student.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/vc142.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x64/Debug/vc142.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/.idea/.idea.HonorRollProcedural/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/.idea/.idea.HonorRollProcedural/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HonorRoll1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRoll1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/student.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.h" beforeDir="false" afterPath="$PROJECT_DIR$/student.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/unsuccessfulbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.vcxproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.vcxproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +40,9 @@
   </component>
   <component name="ExportToHTMLSettings">
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Honor Roll OOP\exportToHTML" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -21,13 +52,19 @@
     </changedPaths>
   </component>
   <component name="ProjectId" id="1nQc409S2HNLpCdiZadSTFkBVh7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -48,15 +85,28 @@
       <option name="presentableId" value="Default" />
       <updated>1611325566562</updated>
       <workItem from="1611325568035" duration="6505000" />
+      <workItem from="1613574507291" duration="1881000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
