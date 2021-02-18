@@ -5,32 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3daf8708-7d86-4f92-9720-c06d5d22dc25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/.idea/.idea.Honor Roll OOP/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/.idea/.idea.Honor Roll OOP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/.idea/.idea.Honor Roll OOP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.exe.recipe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.ilk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/CL.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/CL.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/CL.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/Honor Roll OOP.lastbuildstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/link.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/link.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/link.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/HonorRoll1.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/student.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/vc142.idb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/vc142.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HonorRollProcedural/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HonorRollProcedural/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/HonorRoll1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/HonorRoll1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/student.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/student.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/student.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/student.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/unsuccessfulbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.vcxproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.vcxproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +116,7 @@
       <workItem from="1612729215533" duration="6811000" />
       <workItem from="1612825434982" duration="4187000" />
       <workItem from="1612877411024" duration="4030000" />
-      <workItem from="1613574642497" duration="1429000" />
+      <workItem from="1613574642497" duration="1847000" />
     </task>
     <servers />
   </component>

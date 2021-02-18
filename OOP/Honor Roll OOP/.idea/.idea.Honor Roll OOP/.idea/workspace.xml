@@ -4,33 +4,11 @@
     <projectFile>Honor Roll OOP.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c515c091-2719-4c64-8457-d58b2c05321b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.exe.recipe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.ilk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/CL.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/CL.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/CL.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/Honor Roll OOP.lastbuildstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/link.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/link.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/link.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/HonorRoll1.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/student.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/vc142.idb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/vc142.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/.idea/.idea.HonorRollProcedural/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/.idea/.idea.HonorRollProcedural/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c515c091-2719-4c64-8457-d58b2c05321b" name="Default Changelist" comment="Almost finished Honor Roll OOP, just got to seperate disclipinary function from honor roll checker method and make it a new method">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HonorRoll1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRoll1.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/student.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student.h" beforeDir="false" afterPath="$PROJECT_DIR$/student.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/unsuccessfulbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.vcxproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.vcxproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,8 +63,17 @@
       <option name="presentableId" value="Default" />
       <updated>1611325566562</updated>
       <workItem from="1611325568035" duration="6505000" />
-      <workItem from="1613574507291" duration="1881000" />
+      <workItem from="1613574507291" duration="2007000" />
+      <workItem from="1613672524263" duration="856000" />
     </task>
+    <task id="LOCAL-00001" summary="Almost finished Honor Roll OOP, just got to seperate disclipinary function from honor roll checker method and make it a new method">
+      <created>1613576459213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613576459213</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,9 +91,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Almost finished Honor Roll OOP, just got to seperate disclipinary function from honor roll checker method and make it a new method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost finished Honor Roll OOP, just got to seperate disclipinary function from honor roll checker method and make it a new method" />
   </component>
 </project>

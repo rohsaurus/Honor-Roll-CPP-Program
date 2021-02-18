@@ -1,2 +1,0 @@
-C:\Users\mpari\Documents\coding projects\C++\Honor Roll\OOP\Honor Roll OOP\x64\Debug\Honor Roll OOP.exe
-C:\Users\mpari\Documents\coding projects\C++\Honor Roll\OOP\Honor Roll OOP\x64\Debug\Honor Roll OOP.pdb
