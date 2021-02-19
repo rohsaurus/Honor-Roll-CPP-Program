@@ -256,7 +256,10 @@ void student::mean_grade()
         int transfer = grades[w];
         added_up = added_up + transfer;
     }
-    mean = added_up/courses_int;
+    mean_pre_rounded = added_up/courses_int;
+
+    // std::round to round up if .5 or above and round down if .4 or below
+    mean = round(mean_pre_rounded);
 }
 
 void student::discipline_issue_method()

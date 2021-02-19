@@ -6,10 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="c515c091-2719-4c64-8457-d58b2c05321b" name="Default Changelist" comment="Almost finished Honor Roll OOP, just got to seperate disclipinary function from honor roll checker method and make it a new method">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HonorRoll1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRoll1.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/student.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student.h" beforeDir="false" afterPath="$PROJECT_DIR$/student.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/HonorRollProcedural/HonorRollProcedural.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/HonorRollProcedural/HonorRollProcedural.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/HonorRollProcedural/methods.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/HonorRollProcedural/methods.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/HonorRollProcedural/x64/Debug/methods.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/HonorRollProcedural/x64/Debug/methods.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/HonorRollProcedural/x64/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/HonorRollProcedural/x64/Debug/vc142.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/HonorRollProcedural/x64/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/HonorRollProcedural/x64/Debug/vc142.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/x64/Debug/HonorRollProcedural.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/x64/Debug/HonorRollProcedural.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/x64/Debug/HonorRollProcedural.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/x64/Debug/HonorRollProcedural.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/x64/Debug/HonorRollProcedural.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/x64/Debug/HonorRollProcedural.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +70,8 @@
       <updated>1611325566562</updated>
       <workItem from="1611325568035" duration="6505000" />
       <workItem from="1613574507291" duration="2007000" />
-      <workItem from="1613672524263" duration="856000" />
+      <workItem from="1613672524263" duration="1822000" />
+      <workItem from="1613764112382" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="Almost finished Honor Roll OOP, just got to seperate disclipinary function from honor roll checker method and make it a new method">
       <created>1613576459213</created>
@@ -73,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613576459213</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="OOP finished and ready to be tested&#10;&#10;18 February 2021">
+      <created>1613673758716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613673758716</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +111,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Almost finished Honor Roll OOP, just got to seperate disclipinary function from honor roll checker method and make it a new method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Almost finished Honor Roll OOP, just got to seperate disclipinary function from honor roll checker method and make it a new method" />
+    <MESSAGE value="OOP finished and ready to be tested&#10;&#10;18 February 2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP finished and ready to be tested&#10;&#10;18 February 2021" />
   </component>
 </project>

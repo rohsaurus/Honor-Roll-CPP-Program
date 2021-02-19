@@ -108,8 +108,9 @@ void honor_roll_eligibility_checker(int number,string name)
         int transfer = grades[w];
         added_up = added_up + transfer;
     }
-    int mean = added_up/number;
-
+    double mean_pre_rounded;
+    mean_pre_rounded = added_up/number;
+    int mean = round(mean_pre_rounded);
 
     // 5% chance for disicpline issue
     int max;

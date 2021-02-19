@@ -31,7 +31,10 @@ class student
 
     // mean of all courses
 
+    // Made double to preseve number for rounding
+    double mean_pre_rounded;
     int mean;
+
 
     // discipline issue?
     std::string discipline_issue;

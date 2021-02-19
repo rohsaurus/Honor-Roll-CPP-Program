@@ -73,7 +73,7 @@ int main(int argc, char* argv[])
      
         } if(count==0)
         {
-            cout << "Number inputted is an Integer\n";
+            cout << "";
             temp = std::stoi(courses);
             if (temp >= 1 && temp <= 8)
             {
@@ -82,7 +82,7 @@ int main(int argc, char* argv[])
         }
   
         else
-            cout << "Number inputted is not an integer\n";
+            cout << "";
     }
     // Method that checks to see if student is eligbile for honor roll
     honor_roll_eligibility_checker(temp,full_name);
