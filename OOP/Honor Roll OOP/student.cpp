@@ -124,7 +124,7 @@ void student::courses_enrolled_in()
     {
         // test condition to check for int status works for strings and doubles
         cout << "How many courses do you want to take?\n If this is not the first time you are seeing this prompt,\n that means you entered a faulty input. Enter a number \n between 1 and 8.";
-        cin >> courses;
+        getline(cin,courses);
 
         // Iteratres to every character checking if it is a digit or not
         // this deduces whether user inputted integer or something else
@@ -200,7 +200,7 @@ void student::course_grades()
             // test condition to check for int status works for strings and doubles
             cout << "Enter your grade for class " << classes[o] << ". It must be greater than 0 and no more than " << MAX_GRADE << ". Also it must not be a negative number and must be an integer.\n If you are seeing this again, then you have failed one of these conditions.\n\n";
             string tempary = "";
-            cin >> tempary;
+            getline(cin,tempary);
             int triggered = 0;
 
             // Iteratres to every character checking if it is a digit or not
@@ -250,10 +250,10 @@ void student::course_grades()
 void student::mean_grade()
 {
     // Figuring out the overall Grade Average
-    int added_up = 0;
+    double added_up = 0;
     for (int w = 0; w < courses_int; w++)
     {
-        int transfer = grades[w];
+        double transfer = grades[w];
         added_up = added_up + transfer;
     }
     mean_pre_rounded = added_up/courses_int;

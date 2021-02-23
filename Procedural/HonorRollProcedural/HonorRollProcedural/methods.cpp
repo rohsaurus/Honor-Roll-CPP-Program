@@ -55,7 +55,7 @@ void honor_roll_eligibility_checker(int number,string name)
             // test condition to check for int status works for strings and doubles
             cout << "Enter your grade for class " << classes[o] << ". It must be greater than 0 and no more than " << MAX_GRADE << ". Also it must not be a negative number and must be an integer.\n If you are seeing this again, then you have failed one of these conditions.\n\n";
             string tempary = "";
-            cin >> tempary;
+            getline(cin,tempary);
             int triggered = 0;
 
             // Iteratres to every character checking if it is a digit or not
@@ -90,7 +90,7 @@ void honor_roll_eligibility_checker(int number,string name)
             // Checking if number is negative or above max grade
             if (grades[o] < 0)
             {
-                cout << "You can't have a negative grade.\n Please enter a positive integer";
+                cout << "You can't have a negative grade.\n Please enter a positive integer\n";
                 count = 1;
             }
             if (grades[o] > MAX_GRADE)
@@ -102,10 +102,10 @@ void honor_roll_eligibility_checker(int number,string name)
     }
 
     // Figuring out the overall Grade Average
-    int added_up = 0;
+    double added_up = 0;
     for (int w = 0; w < number; w++)
     {
-        int transfer = grades[w];
+        double transfer = grades[w];
         added_up = added_up + transfer;
     }
     double mean_pre_rounded;

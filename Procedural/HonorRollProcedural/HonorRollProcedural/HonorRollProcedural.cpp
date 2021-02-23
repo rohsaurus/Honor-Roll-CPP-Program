@@ -35,15 +35,15 @@ int main(int argc, char* argv[])
         if (name_length == 1)
         {
             cout << "Are you sure that you entered your name correct? It has a length of one chracter\n" << full_name << endl;
-            cout << "Enter yes if you are sure and no if you want to correct it\n";
+            cout << "Enter yes if you do not want to correct it. Otherwise type no.";
             // Extra Thing (allows user to correct input if they have 1 character)
             getline(cin, choice);
-            if (choice == "yes")
+            if (choice == "no")
             {
                cout << "Enter your full name\n";
                 getline (cin,full_name);
             }
-            else
+            else if (choice == "yes")
             {
                 cout << "Your name will be used in the program\n";
             }
@@ -57,7 +57,7 @@ int main(int argc, char* argv[])
     {
         // test condition to check for int status works for strings and doubles
         cout << "How many courses do you want to take?\n If this is not the first time you are seeing this prompt,\n that means you entered a faulty input. Enter a number \n between 1 and 8.";
-        cin >> courses;
+        getline(cin,courses);
 
         // Iteratres to every character checking if it is a digit or not
         // this deduces whether user inputted integer or something else
