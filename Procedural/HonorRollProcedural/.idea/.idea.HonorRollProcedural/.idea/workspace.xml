@@ -5,43 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3daf8708-7d86-4f92-9720-c06d5d22dc25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.ilk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/CL.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/CL.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/CL.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/Honor Roll OOP.lastbuildstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/link.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/link.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.tlog/link.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/HonorRoll1.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/student.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/vc142.idb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/vc142.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/CL.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/HonorRollProcedural.lastbuildstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/link.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/link.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRol.75FA1281.tlog/link.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/HonorRollProcedural.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/methods.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/vc142.idb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HonorRollProcedural/x64/Debug/vc142.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.ilk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/HonorRollProcedural.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/~$tput.dock.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/~WRL0005.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/student.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/student.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.vcxproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Honor Roll OOP/x64/Debug/Honor Roll OOP.vcxproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/HonorRollProcedural.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/HonorRollProcedural.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HonorRollProcedural/methods.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/HonorRollProcedural/methods.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output.dock.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Output.dock.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +119,7 @@
       <workItem from="1613574642497" duration="1847000" />
       <workItem from="1613764647302" duration="258000" />
       <workItem from="1613940462406" duration="914000" />
-      <workItem from="1614091862637" duration="1477000" />
+      <workItem from="1614091862637" duration="2903000" />
     </task>
     <servers />
   </component>

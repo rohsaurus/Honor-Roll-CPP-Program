@@ -235,7 +235,7 @@ void student::course_grades()
             // Checking if number is negative or above max grade
             if (grades[o] < 0)
             {
-                cout << "You can't have a negative grade.\n Please enter a positive integer";
+                cout << "You can't have a negative grade.\n Please enter a positive integer\n";
                 count = 1;
             }
             if (grades[o] > MAX_GRADE)

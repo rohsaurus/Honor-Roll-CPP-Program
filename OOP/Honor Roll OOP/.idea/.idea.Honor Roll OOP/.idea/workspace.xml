@@ -5,23 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c515c091-2719-4c64-8457-d58b2c05321b" name="Default Changelist" comment="Almost finished Honor Roll OOP, just got to seperate disclipinary function from honor roll checker method and make it a new method">
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.ilk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/CL.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/CL.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/CL.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/Honor Roll OOP.lastbuildstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/link.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/link.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.tlog/link.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/HonorRoll1.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/student.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/vc142.idb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x64/Debug/vc142.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Honor Roll OOP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/student.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.vcxproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.vcxproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/Honor Roll OOP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/student.obj" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/student.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/vc142.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/vc142.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Procedural/HonorRollProcedural/.idea/.idea.HonorRollProcedural/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +71,7 @@
       <workItem from="1613672524263" duration="1822000" />
       <workItem from="1613764112382" duration="786000" />
       <workItem from="1613939236268" duration="1211000" />
+      <workItem from="1614349840633" duration="1486000" />
     </task>
     <task id="LOCAL-00001" summary="Almost finished Honor Roll OOP, just got to seperate disclipinary function from honor roll checker method and make it a new method">
       <created>1613576459213</created>
